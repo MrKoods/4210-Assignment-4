@@ -1,0 +1,6 @@
+# Requirements for CNN Assignment #4
+# Install these dependencies to run cnn.py
+
+tensorflow>=2.10.0
+pillow>=9.0.0
+numpy>=1.23.0
