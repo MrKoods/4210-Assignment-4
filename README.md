@@ -1,5 +1,8 @@
 ```powershell
-# Activate the virtual environment
+# Create virtual environment, I isolate project dependencies
+python -m venv venv
+
+# Activate (uses isolated packages instead of global Python)
 .\venv\Scripts\Activate.ps1
 
 # Run the CNN script
